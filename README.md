@@ -1,3 +1,3 @@
 ***Praticando python***
 
-Repositório destinado a resolução de ecercícios do beecrowd.
+Repositório destinado a resolução de exercícios do beecrowd.
